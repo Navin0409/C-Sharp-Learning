@@ -18,7 +18,9 @@ namespace HelloWord
             //oddNumbers.OddNumber();
             //CalculateFactorial.Calculatefactorial();
             //CountDown.Countdown();
-            PasswordRetrySystem.PasswordRetrysystem();
+            //PasswordRetrySystem.PasswordRetrysystem();
+            //PrintAllCharacters.PrintallCharacter();
+            MultiplicationTable.Multiplicationtable();
         }
     }
      

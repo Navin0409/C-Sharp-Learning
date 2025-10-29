@@ -6,6 +6,12 @@ namespace C_Learning.LoopQuestions
     {
         public static void PrintallCharacter()
         {
+            string userName = "Navin0403";
+
+            foreach(char name in userName)
+            {
+                Console.WriteLine(name);
+            }
 
         }
     }
