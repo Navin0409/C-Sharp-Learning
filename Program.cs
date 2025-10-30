@@ -20,7 +20,8 @@ namespace HelloWord
             //CountDown.Countdown();
             //PasswordRetrySystem.PasswordRetrysystem();
             //PrintAllCharacters.PrintallCharacter();
-            MultiplicationTable.Multiplicationtable();
+            //MultiplicationTable.Multiplicationtable();
+            CreatePyramid.Createpyramid();
         }
     }
      
