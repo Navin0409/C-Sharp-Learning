@@ -21,7 +21,9 @@ namespace HelloWord
             //PasswordRetrySystem.PasswordRetrysystem();
             //PrintAllCharacters.PrintallCharacter();
             //MultiplicationTable.Multiplicationtable();
-            CreatePyramid.Createpyramid();
+            //CreatePyramid.Createpyramid();
+            //PrintNumbers.Printnumber();
+            FibonacciSeries.Fibonacciseries();
         }
     }
      
